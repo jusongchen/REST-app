@@ -1,0 +1,7 @@
+
+BEGIN;
+
+DROP CREATE task;
+DROP TABLE Lock ;
+
+END;
